@@ -21,7 +21,7 @@ Zylo3D integra control mecánico, archivos de impresión 3D y documentación té
 El proyecto fue presentado en una feria.  
 La demostración en video se encuentra aquí:
 
-➡️  https://youtube.com/watch?v=MNvq2vU5JdI&si=PwgMQPIvxAc4pZq7
+ 
 
 *(enlace externo)*
 
